@@ -20,3 +20,5 @@ if (mediaNotas >= 5 and mediaNotas <= 8):
   print("Aprobado")
 elif (mediaNotas > 8):
   print("Excelente")
+
+#quiero ver si se puede hacer un commit de una rama a development y luego a master, ya despues de cerrado el pull request para
